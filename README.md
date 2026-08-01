@@ -81,7 +81,7 @@ The system consists of four major modules:
    * UDP command packets
    * Low-latency communication
 
-4. **Mobile Application**
+4. **Web Application**
 
    * Dual joystick interface
    * Throttle
@@ -142,7 +142,7 @@ firmware/
 drivers/
     Sensor and motor drivers
 
-mobile-app/
+Web App/
     Smartphone control interface
     App Flowchart
 
