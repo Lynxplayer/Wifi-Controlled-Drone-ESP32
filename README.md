@@ -139,9 +139,6 @@ The simulation includes:
 firmware/
     Main ESP32 source code
 
-drivers/
-    Sensor and motor drivers
-
 Web App/
     Smartphone control interface
     App Flowchart
@@ -152,7 +149,6 @@ simulation/
 Docs/
     Circuit diagrams
     Block diagrams
-
 
 images/
     Drone photographs
